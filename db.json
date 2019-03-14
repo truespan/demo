@@ -1,16 +1,84 @@
 {
-  "EmployeeData": [
-    { "employee": "Peter, John", "title": "Architect", "Image": "", "employeeid": "ABC12345", "country": "India" },
-    { "employee": "Abhay, Shankar", "title": "Senior Developer", "Image": "", "employeeid": "EFG12345", "country": "India" },
-   { "employee": "Karthik, Suresh", "title": "Senior Architect", "Image": "", "employeeid": "HIJ12345", "country": "India" }
-        { "employee": "Farhan, Ali", "title": "Developer Lead", "Image": "", "employeeid": "PQR12345", "country": "India" },
-    { "employee": "Ashwini, J", "title": "Developer", "Image": "", "employeeid": "SDF12345", "country": "India" },
-   { "employee": "Kabir, Ahmed", "title": "Senior Tester", "Image": "", "employeeid": "KAB12345", "country": "India" }
-        { "employee": "Parag, Modi", "title": "CIO", "Image": "", "employeeid": "PAG12345", "country": "India" },
-    { "employee": "Ranjith, GH", "title": "Developer", "Image": "", "employeeid": "RJH12345", "country": "India" },
-   { "employee": "Obaid, Rehman", "title": "Architect", "Image": "", "employeeid": "OBD12345", "country": "India" }
-        { "employee": "Pramath, Nath", "title": "Asst Manager", "Image": "", "employeeid": "PRA12345", "country": "India" },
-    { "employee": "Chayalakshmi, KN", "title": "Developer", "Image": "", "employeeid": "CHA12345", "country": "India" },
-   { "employee": "Krishna, Kaivlyanath", "title": "Developer", "Image": "", "employeeid": "KRI12345", "country": "India" }
-  ]
+	"EmployeeData": [{
+			"employee": "Peter, John",
+			"title": "Architect",
+			"Image": "",
+			"employeeid": "ABC12345",
+			"country": "India"
+		},
+		{
+			"employee": "Abhay, Shankar",
+			"title": "Senior Developer",
+			"Image": "",
+			"employeeid": "EFG12345",
+			"country": "India"
+		},
+		{
+			"employee": "Karthik, Suresh",
+			"title": "Senior Architect",
+			"Image": "",
+			"employeeid": "HIJ12345",
+			"country": "India"
+		}, {
+			"employee": "Farhan, Ali",
+			"title": "Developer Lead",
+			"Image": "",
+			"employeeid": "PQR12345",
+			"country": "India"
+		},
+		{
+			"employee": "Ashwini, J",
+			"title": "Developer",
+			"Image": "",
+			"employeeid": "SDF12345",
+			"country": "India"
+		},
+		{
+			"employee": "Kabir, Ahmed",
+			"title": "Senior Tester",
+			"Image": "",
+			"employeeid": "KAB12345",
+			"country": "India"
+		} {
+			"employee": "Parag, Modi",
+			"title": "CIO",
+			"Image": "",
+			"employeeid": "PAG12345",
+			"country": "India"
+		},
+		{
+			"employee": "Ranjith, GH",
+			"title": "Developer",
+			"Image": "",
+			"employeeid": "RJH12345",
+			"country": "India"
+		},
+		{
+			"employee": "Obaid, Rehman",
+			"title": "Architect",
+			"Image": "",
+			"employeeid": "OBD12345",
+			"country": "India"
+		} {
+			"employee": "Pramath, Nath",
+			"title": "Asst Manager",
+			"Image": "",
+			"employeeid": "PRA12345",
+			"country": "India"
+		},
+		{
+			"employee": "Chayalakshmi, KN",
+			"title": "Developer",
+			"Image": "",
+			"employeeid": "CHA12345",
+			"country": "India"
+		},
+		{
+			"employee": "Krishna, Kaivlyanath",
+			"title": "Developer",
+			"Image": "",
+			"employeeid": "KRI12345",
+			"country": "India"
+		}
+	]
 }
