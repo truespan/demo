@@ -39,7 +39,7 @@
 			"Image": "",
 			"employeeid": "KAB12345",
 			"country": "India"
-		} {
+		}, {
 			"employee": "Parag, Modi",
 			"title": "CIO",
 			"Image": "",
@@ -59,7 +59,7 @@
 			"Image": "",
 			"employeeid": "OBD12345",
 			"country": "India"
-		} {
+		} ,{
 			"employee": "Pramath, Nath",
 			"title": "Asst Manager",
 			"Image": "",
