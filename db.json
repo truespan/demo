@@ -1,14 +1,7 @@
 {
-  "sanjeeb": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "profession": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "EmployeeData": [
+    { "employee": "Peter, John", "title": "Architect", "Image": "", "country": "India" },
+    { "employee": "Abhay, Shankar", "title": "Senior Developer", "Image": "", "country": "India" },
+   { "employee": "Karthik, Suresh", "title": "Senior Architect", "Image": "", "country": "India" }
+  ]
 }
